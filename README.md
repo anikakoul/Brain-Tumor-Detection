@@ -14,11 +14,7 @@ _Prerequisites_
 To install the required packages, run: pip install -r requirements.txt
 
 _Usage_
-1. Clone the repository:
-
-   git clone https://github.com/anikakoul/Brain-Tumor-Detection.git
-   
-   cd tumor-detection
+1. Clone the repository.
 3. Download the Kaggle dataset and place it in the data/ directory.
 4. Run the script: python tumor_detection.py
 5. Follow the instructions in the terminal or Jupyter Notebook to train models or visualize results.
